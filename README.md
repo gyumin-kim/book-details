@@ -1,7 +1,8 @@
 # book-details
 *Developing GraphQL server in Java practice*
 
-각종 "GraphQL Java tutorial" 문서를 참고하여 예제 코드를 작성함. (진행중)
+각종 "GraphQL Java tutorial" 문서를 참고하여 예제 코드를 작성함. (진행중)  
+Client tool은 [GraphQL Playground](https://github.com/prisma/graphql-playground/releases)를 사용.
 
 ## 참고자료
 - [howtographql - GRAPHQL FUNDAMENTALS](https://www.howtographql.com/basics/0-introduction/)
